@@ -1,5 +1,7 @@
 # GirlieToken
+
 ![Girlie Logo](girlie_logo.png)
+
 The Girlie (GRL) token is a Solana native ERC-20 token. It is used by the Cambridge Girlies.
 
 ## How may I store Girlies?
