@@ -1,2 +1,2 @@
 # GirlieToken
-The Girlie (GRL) token is an Ethereum native ERC-20 token. 
+The Girlie (GRL) token is a Solana native ERC-20 token. 
