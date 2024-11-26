@@ -1,4 +1,4 @@
-# Girlie Token: The future of money lies in Girlies
+# Girlie Token: The future lies in Girlies
 
 ![Girlie Logo](girlie_logo.png)
 
