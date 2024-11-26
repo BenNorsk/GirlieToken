@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Girlie Token (GRL)</title>
+  <style>
+    /* Background styling */
+    body {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      background: linear-gradient(45deg, #27226b, #d51d79);
+      background-size: 400% 400%;
+      animation: gradientAnimation 4s ease infinite;
+      font-family: Arial, sans-serif;
+    }
+
+    @keyframes gradientAnimation {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    /* Header styling */
+    h2 {
+      color: white;
+      margin-bottom: 20px;
+    }
+
+    /* Centered image */
+    img {
+      max-width: 100%;
+      height: auto;
+      max-height: 300px;
+      margin-bottom: 20px;
+    }
+
+    /* Button styling */
+    .btn {
+      display: inline-block;
+      padding: 15px 30px;
+      font-size: 24px;
+      font-weight: bold;
+      color: white;
+      text-transform: uppercase;
+      text-decoration: none;
+      background-color: black;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .btn span {
+      color: #989797;
+    }
+
+    .btn:hover {
+      animation: rainbowGlow 1.5s linear infinite;
+    }
+
+    @keyframes rainbowGlow {
+      0% { box-shadow: 0 0 10px red; }
+      20% { box-shadow: 0 0 10px orange; }
+      40% { box-shadow: 0 0 10px yellow; }
+      60% { box-shadow: 0 0 10px green; }
+      80% { box-shadow: 0 0 10px blue; }
+      100% { box-shadow: 0 0 10px violet; }
+    }
+
+    /* Responsiveness */
+    @media (max-width: 768px) {
+      h2 {
+        font-size: 24px;
+      }
+      .btn {
+        font-size: 20px;
+        padding: 10px 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h2>Girlie Token (GRL)</h2>
+  <img src="girlie_logo.png" alt="Girlie Logo">
+  <a href="https://github.com/BenNorsk/GirlieToken" class="btn">Get your <span>$GIRLIES$</span> HERE</a>
+</body>
+</html>
