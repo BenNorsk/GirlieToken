@@ -1,6 +1,7 @@
 # Girlie Token: The future of money lies in Girlies
 
 ![Girlie Logo](girlie_logo.png)
+
 [Girlie Landing Page](https://bennorsk.github.io/GirlieToken/)
 
 The Girlie (GRL) token is a Solana native ERC-20 token. It is used by the Cambridge Girlies.
