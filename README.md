@@ -26,5 +26,12 @@ Benjamin will send you your Girlies back in return. Alternatively, you may purch
 ## How many Girlies are there?
 The supply of Girlies is limited to 1'000 Girlies. At any time, you may return your Girlies at a rate of 1£/Girlie.
 
+## I wish to send Girlies to my friends. How can I do that?
+You may send Girlies to your friends by sending Girlies to the following addresses (there is also a QR code):
+
+- Ben: `8fiePgrQRUfTSbLCyP4TBQuhJLe3FAPy1JEYrEc2L5rs`
+
+To get Girlies, simply send your address to your friends. Like phone numbers, Girlie-addresses can be saved to a contact (so you only need to copy them once). 
+
 
 
