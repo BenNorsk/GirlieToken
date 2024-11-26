@@ -35,7 +35,11 @@ You may send Girlies to your friends by sending Girlies to the following Girlie-
 
 To get Girlies, simply send your address to your friends. Like phone numbers, Girlie-addresses can be saved to a contact (so you only need to copy them once). 
 
-### Any other help needed?
+## Are my Girlies secure?
+Yes, your Girlies are secure. Girlies uses the standard ERC-20 protocol for fungible tokens. The token itself lives on the Solana blockchain, which is protected by over 1'000'000 weekly proof of stake (PoS) miners. Your Girlies are more secure than your cash in your wallet.
+
+## Additional Information
 Sending and receiving Girlies costs a tiny, tiny amount of Solana (SOL) - just a fraction of a penny. It is thus recommended to hold around 1£ worth of Solana in your wallet. You may top up your Phantom wallet using your credit card, or **ask Ben to send you some cents of his Solana**.
+
 
 
