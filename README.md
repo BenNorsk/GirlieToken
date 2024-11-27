@@ -32,6 +32,7 @@ The supply of Girlies is limited to 1'000 Girlies. At any time, you may return y
 You may send Girlies to your friends by sending Girlies to the following Girlie-addresses:
 
 - **Ben:** `8fiePgrQRUfTSbLCyP4TBQuhJLe3FAPy1JEYrEc2L5rs`
+- **Marcus:** `EcUzXtzKhyLZStKYNZQghX6anVGoMDsutFzNe4RmqutT`
 
 To get Girlies, simply send your address to your friends. Like phone numbers, Girlie-addresses can be saved to a contact (so you only need to copy them once). 
 
